@@ -1,0 +1,6 @@
+portfolio/
+│── index.html       (Main HTML file)
+│── styles.css       (CSS file for styling)
+│── scripts.js       (JavaScript file for animations - OPTIONAL)
+│── images/          (Folder for profile picture & project images)
+│── README.md        (Optional documentation)
